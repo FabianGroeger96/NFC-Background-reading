@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "D3KQX62K1A.com.example.DemoApp",
+      "paths": ["*"]
+    }, {
+      "appID": "D3KQX62K1A.com.example.DemoAdminApp",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
