@@ -51,6 +51,7 @@ In order to avoid unintentional tag reading, the system reads tags in the backgr
  ```
  Use the following format for the app identifiers:
 `<Team Identifier>.<Bundle Identifier>`
+
 3. Place the file under your site's root directory
 `https://<fully qualified domain>/apple-app-site-association`
 > Please remember that you need to host your website on an **https://** site, with a valid certificate!
