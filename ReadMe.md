@@ -1,5 +1,7 @@
 # NFC Background reading with Swift
 
+![Apple NFC API](Assets/ios-opening-nfc.png "New NFC API")
+
 ## Overview
 
 On iPhones that support background tag reading, the system scans for and reads NFC data without requiring users to scan tags using an app. The system displays a pop-up notification each time it reads a new tag. After the user taps the notification, the system delivers the tag data to the appropriate app. If the iPhone is locked, the system prompts the user to unlock the phone before providing the tag data to the app.
